@@ -8,6 +8,13 @@ class StaticPagesController < ApplicationController
     # => app/views/static_pages/help.html.erb
     # roots / root
     # routes / route
+    
+
+  end
+  def about
+    # => app/veiw
+    
+
 
   end
 end
